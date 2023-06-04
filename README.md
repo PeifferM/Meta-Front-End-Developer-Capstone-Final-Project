@@ -1,6 +1,6 @@
 # Little Lemon Restaurant ´Reserve a Table´
 
-Welcome to the Little Lemon! This is a Capstone "Meta Front End Development" course, developed using React hooks, HTML, and CSS.
+Welcome to the Little Lemon! This is a Capstone "Meta Front End Development" course project, developed using React hooks, HTML, and CSS.
 
 # Features
 * Restaurant information - including overview, special menu items, and testimonials
